@@ -6,7 +6,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuanValentinoS&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=4169E1&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuanValentinoS&layout=compact&hide_border=true&title_color=4169E1&text_color=4169E1&bg_color=0d1117" />
-</div>
+  
+
 
 
 ### Minhas linguagens:
@@ -27,3 +28,5 @@
   <a href="https://www.linkedin.com/in/luan-valentino-97173423b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+  
+![Snake animation](https://github.com/LuanValentinoS/LuanValentinoS/blob/output/github-contribution-grid-snake.svg)
